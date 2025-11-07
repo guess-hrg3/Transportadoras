@@ -1,0 +1,58 @@
+{
+    "conhecimentos": [
+        {
+            "statusEntrega": null,
+            "numero": "015826519",
+            "origem": "SAO",
+            "destino": "BHZ",
+            "emissao": "09/09/2025",
+            "remetente": "GUESS BRASIL COMERCIO E DISTRIBUICAO S.A.",
+            "destinatario": "GUESS BRASIL COMERCIO E DISTRIBUICAO S.A",
+            "tipoFrete": "CIF",
+            "volumes": 8,
+            "valorMercantil": 10581.2,
+            "peso": 180,
+            "totalFrete": 792.7,
+            "previsaoEntrega": "10/09/2025",
+            "dataEntrega": "11/09/2025",
+            "status": "FINALIZADO",
+            "cidade": "BELO HORIZONTE",
+            "uf": "MG",
+            "cidadeColeta": "SANTANA DE PARNAIBA",
+            "ufColeta": "SP",
+            "dataOcorrencia": "11/09/2025 12:29:24",
+            "ultimaOcorrencia": "ENTREGA REALIZADA",
+            "notasFiscais": [
+                {
+                    "serie": "1",
+                    "numero": "30152",
+                    "emissao": "04/09/2025"
+                }
+            ],
+            "timeLine": [
+                {
+                    "descricao": "Encomenda na Origem (Braspress)",
+                    "data": "09/09/2025 23:44"
+                },
+                {
+                    "descricao": "Em viagem para Destino (Braspress)",
+                    "data": "09/09/2025 18:58"
+                },
+                {
+                    "descricao": "Chegada no Destino (Braspress)",
+                    "data": "10/09/2025 16:44"
+                },
+                {
+                    "descricao": "Em rota de Entrega",
+                    "data": "11/09/2025 11:29"
+                },
+                {
+                    "descricao": "Entrega Realizada",
+                    "data": "11/09/2025 12:29"
+                }
+            ]
+        }
+    ],
+    "totalNf": 0,
+    "fluxoAtendimento": null
+}
